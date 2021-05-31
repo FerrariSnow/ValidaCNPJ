@@ -1,0 +1,13 @@
+C:\Users\Ferrari\source\repos\CNPJ\bin\Debug\netcoreapp3.1\CNPJ.exe
+C:\Users\Ferrari\source\repos\CNPJ\bin\Debug\netcoreapp3.1\CNPJ.deps.json
+C:\Users\Ferrari\source\repos\CNPJ\bin\Debug\netcoreapp3.1\CNPJ.runtimeconfig.json
+C:\Users\Ferrari\source\repos\CNPJ\bin\Debug\netcoreapp3.1\CNPJ.runtimeconfig.dev.json
+C:\Users\Ferrari\source\repos\CNPJ\bin\Debug\netcoreapp3.1\CNPJ.dll
+C:\Users\Ferrari\source\repos\CNPJ\bin\Debug\netcoreapp3.1\CNPJ.pdb
+C:\Users\Ferrari\source\repos\CNPJ\obj\Debug\netcoreapp3.1\CNPJ.csprojAssemblyReference.cache
+C:\Users\Ferrari\source\repos\CNPJ\obj\Debug\netcoreapp3.1\CNPJ.AssemblyInfoInputs.cache
+C:\Users\Ferrari\source\repos\CNPJ\obj\Debug\netcoreapp3.1\CNPJ.AssemblyInfo.cs
+C:\Users\Ferrari\source\repos\CNPJ\obj\Debug\netcoreapp3.1\CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\Ferrari\source\repos\CNPJ\obj\Debug\netcoreapp3.1\CNPJ.dll
+C:\Users\Ferrari\source\repos\CNPJ\obj\Debug\netcoreapp3.1\CNPJ.pdb
+C:\Users\Ferrari\source\repos\CNPJ\obj\Debug\netcoreapp3.1\CNPJ.genruntimeconfig.cache
